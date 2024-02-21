@@ -7,6 +7,6 @@ TO BUILD:
 
 Download wish.c to any directory
 
-Open a terminal window to the directory and enter a gcc/clang command
+Open a terminal window to the directory and enter a gcc/clang command e.g. -> gcc wish.c -o wish
 
 Run output and the shell should startup!
